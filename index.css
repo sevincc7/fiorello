@@ -1,0 +1,9 @@
+.fiorella{
+    list-style-type: none;
+    display: flex;
+    gap: 20px;
+}
+header {
+    display: flex;
+
+}
